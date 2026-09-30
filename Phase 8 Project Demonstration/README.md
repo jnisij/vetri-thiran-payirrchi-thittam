@@ -5,9 +5,7 @@ Auto Ticket Classification using Flow Designer
 
 ## Demo Video
 
-Google Drive Demo Video Link:
-
-PASTE YOUR GOOGLE DRIVE LINK HERE
+Google Drive Demo Video Link: https://drive.google.com/file/d/1vEguOsEyPfM63rM8iHYJ_tk_dK0y4Q14/view?usp=drive_link
 
 ## Demo Contents
 
